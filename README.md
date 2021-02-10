@@ -1,7 +1,7 @@
 # aircnb
-airbnb 서비스를 클론한 프로젝트입니다.<br>본 레포지토리는 서버사이드 결과물 저장소입니다.
+숙박 공유 플랫폼인 [airbnb](https://www.airbnb.com/) 서비스를 클론한 프로젝트입니다.
 
-### Features
+## Features
 - 숙소 예약 및 예약 이메일 발송
 - 숙소 찜하기
 - 고객 가입정보 유효성 검사(Validation)
