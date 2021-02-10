@@ -20,7 +20,7 @@ airbnb 서비스를 클론한 프로젝트입니다.<br>본 레포지토리는 �
 - 숙소 찜하기
 
 ## Demo video(Youtube)
-[![demo](https://img.youtube.com/vi/RkZ5UUSsRQ/sddefault.jpg)](https://www.youtube.com/watch?v=-RkZ5UUSsRQ)
+[![demo](https://img.youtube.com/vi/RkZ5UUSsRQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=-RkZ5UUSsRQ)
 
 ## 사용기술
 
