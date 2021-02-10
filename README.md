@@ -1,5 +1,6 @@
 # aircnb
 airbnb 서비스를 클론한 프로젝트입니다.
+본 저장소는 서버사이드 결과물 저장소입니다.
 
 ### 주요 기능
 - 회원가입/로그인
@@ -39,8 +40,7 @@ airbnb 서비스를 클론한 프로젝트입니다.
 - PyJWT
 - Seleniem
 
-### Front end (Repo. 미포함)
-#### [Front end Repo. 바로가기](https://github.com/wecode-bootcamp-korea/13-aircnb-frontend.git)
+### Front end
 - HTML / CSS
 - JavaScript
 - React(CRA 세팅)
