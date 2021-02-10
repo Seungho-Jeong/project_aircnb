@@ -1,6 +1,6 @@
 # aircnb
 숙박 공유 플랫폼인 [airbnb](https://www.airbnb.com/) 서비스를 클론한 프로젝트입니다.
-> Belong anywhere
+> "어디에서나 우리 집처럼(Belong anywhere)"
 
 ## Features
 - 숙소별 상세 정보(가격, 호스트, 주소, 좌표, 수용인원, 침대수, 욕실수, 사진 등) 제공
