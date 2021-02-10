@@ -2,16 +2,14 @@
 숙박 공유 플랫폼인 [airbnb](https://www.airbnb.com/) 서비스를 클론한 프로젝트입니다.
 
 ## Features
-- 숙소 예약 및 예약 이메일 발송
-- 숙소 찜하기
+- 숙소별 상세 정보(가격, 호스트, 주소, 좌표, 수용인원, 침대수, 욕실수, 사진 등) 제공
+- 숙소별 고객 후기(댓글), 숙소 평점 및 평균점수 현황 제공
+- Google map API를 활용한 좌표 및 마커설정
+- 다양한 필터링 조건(지역, 숙소유형, 숙박타입, 인원, 침실수, 편의시설 등)에 따른 숙소 목록 및 페이지네이션 제공
+- 숙소 찜하기, 예약 및 예약 이메일 자동 발신
 - 고객 가입정보 유효성 검사(Validation)
 - Google, Kakao 소셜 로그인
 - 비밀번호 암호화(Bcrypt)
-- 숙소 종류, 숙박 유형, 어메니티 옵션 필터링에 따른 숙소목록 출력
-- 숙소 목록 페이지네이션
-- 숙소 상세 정보 출력
-- Google map API를 활용한 좌표 및 마커설정
-- 고객 후기(댓글), 숙소 평가점수 및 평균점수 현황 출력
 
 ## Demo video
 [![demo](https://img.youtube.com/vi/-RkZ5UUSsRQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=-RkZ5UUSsRQ)
