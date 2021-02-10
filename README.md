@@ -39,7 +39,8 @@ airbnb 서비스를 클론한 프로젝트입니다.
 - PyJWT
 - Seleniem
 
-### Front end
+### Front end (Repo. 미포함)
+#### [Front end Repo. 바로가기](https://github.com/wecode-bootcamp-korea/13-aircnb-frontend.git)
 - HTML / CSS
 - JavaScript
 - React(CRA 세팅)
