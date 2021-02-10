@@ -19,7 +19,7 @@ airbnb 서비스를 클론한 프로젝트입니다.
   - 예약 이메일 발송
 - 숙소 찜하기
 
-## Demo video
+## Demo video(Youtube)
 [![demo](https://img.youtube.com/vi/RkZ5UUSsRQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=-RkZ5UUSsRQ)
 
 ## 사용기술
