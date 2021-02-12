@@ -41,7 +41,7 @@
 - Kakao/Google Login API
 - IMport
 
-## Contributor
+## Contributors
 
 ### Back end(2명)
 - 정승호
