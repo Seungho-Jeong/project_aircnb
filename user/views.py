@@ -35,9 +35,10 @@ class SignUpView(View) :
                     name          = data['name'],
                     password      = bcrypt.hashpw(data['password'].encode('utf-8'),bcrypt.gensalt()).decode(),
                 )
-                return JsonResponse({'MESSAGE' : 'ACCOUNT_CREATED'}, status = 200)
-        except KeyError:
-            return JsonResponse({'MESSAGE' : 'KEY_ERROR'}, status = 401)
+
+                return JsonResponse({'MESSAGE' : 'ACCOUNT_CREATED'}, status = 401)
+        except KeyError as e:
+            return JsonResponse({'MESSAGE' : 'KEY_ERROR {}'.format(e)}, status = 401)
 
 class SignInView(View) :
     def post(self, request) :
