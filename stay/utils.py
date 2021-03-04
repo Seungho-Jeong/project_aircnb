@@ -19,7 +19,7 @@ def login_decorator(func):
                     SECRET_KEY,
                     ALGORITHM
                 )
-                user = User.objects.get(id = data["user_id"])
+                user = User.objects.get(id = data["id"])
                 request.user = user
             else:
                 request.user = False
